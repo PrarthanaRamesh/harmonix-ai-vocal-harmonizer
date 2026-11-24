@@ -1,0 +1,1 @@
+"""Minimal Pygame shell for Harmonix V2."""

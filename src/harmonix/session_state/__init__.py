@@ -1,0 +1,1 @@
+"""Canonical state ownership and command boundaries."""

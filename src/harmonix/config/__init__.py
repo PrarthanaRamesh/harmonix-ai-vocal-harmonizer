@@ -1,0 +1,1 @@
+"""Foundational configuration constants and validation."""

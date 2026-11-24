@@ -1,0 +1,60 @@
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# AI coding agent instructions (kept locally)
+AGENTS.md
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Generated audio and temporary recordings
+*.wav
+*.mp3
+*.flac
+*.ogg
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+# Internal development files
+AGENTS.md
+docs/
+
+# Local Python environment
+.venv/
